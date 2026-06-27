@@ -8,7 +8,7 @@ int f(int a, int b)
 
 int main()
 {
-    int result = f(7, 5);
+    int result = f(70, 30);
 
     cout << "Sum = " << result << endl;
 
